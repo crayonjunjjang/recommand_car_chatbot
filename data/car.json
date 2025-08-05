@@ -1,0 +1,1490 @@
+[
+  {
+    "model_name": "더 뉴 아이오닉 6",
+    "brand": "현대",
+    "price": 48560000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 562,
+    "fuel_efficiency": {
+        "value": 6.3, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["세레니티 화이트", "트랜스미션 블루 펄", "녹턴 그레이 메탈릭", "바이오 필릭 블루 펄", "어비스 블랙 펄", "그래비티 골드 매트", "트랜스미션 블루 매트"],
+    "subsidy": true,
+    "short_desc": "미래지향적 디자인의 프리미엄 전기 세단. 562km의 긴 주행거리와 우수한 전비효율로 장거리 여행에 최적화된 모델"
+  },
+  {
+    "model_name": "투싼",
+    "brand": "현대",
+    "price": 27290000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+         "value": 14.3,
+         "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["크리미 화이트 펄", "쉬머링 실버 메탈릭", "오션 인디고 펄", "아마존 그레이 메탈릭", "얼티메이트 레드 메탈릭", "팬텀 블랙 펄", "파인 그린 매트"],
+    "subsidy": false,
+    "short_desc": "현대의 대표 중형 SUV. 실용적인 공간 구성과 안정적인 주행성능으로 가족용 차량으로 인기가 높은 모델"
+  },
+  {
+    "model_name": "캐스퍼",
+    "brand": "현대",
+    "price": 14930000,
+    "fuel_type": "가솔린",
+    "car_type": "소형 SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": "12.8", 
+        "unit": "km/L"
+    },
+    "seats": 4,
+    "available_colors": ["아틀라스 화이트", "톰보이 카키", "시에나 오렌지 메탈릭","언블리치드 아이보리", "어비스 블랙 펄", "비자림 카키 매트"],
+    "subsidy": false,
+    "short_desc": "도심형 경차 SUV. 컴팩트한 크기로 주차가 용이하고, 개성 넘치는 디자인과 합리적인 가격으로 젊은 층에게 인기"
+  },
+  {
+    "model_name": "코나",
+    "brand": "현대",
+    "price": "24460000",
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": "13.6", 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["미라지 그린","아틀라스 화이트","사이버 그레이 메탈릭","에코트로닉 그레이 펄","네오테릭 옐로우","얼티메이트 레드 메탈릭"],
+    "subsidy": false,
+    "short_desc": "소형 SUV 세그먼트의 인기 모델. 역동적인 디자인과 우수한 연비, 다양한 컬러 옵션으로 개성을 표현할 수 있는 차량"
+  },
+  {
+    "model_name": "디 올 뉴 넥쏘",
+    "brand": "현대",
+    "price": 76430000,
+    "fuel_type": "수소전기",
+    "car_type": "SUV",
+    "range_km": 720,
+    "fuel_efficiency": {
+        "value": 107.6, 
+        "unit": "km/kg"
+    },
+    "seats": 5,
+    "available_colors": ["고요 카퍼 펄", "크리미 화이트 펄", "아마존 그레이 메탈릭", "에코트로닉 그레이 펄", "팬텀 블랙 펄","오션 인디고 매트"],
+    "subsidy": true,
+    "short_desc": "세계 최고 수준의 수소전기차. 720km의 최장 주행거리와 5분 충전으로 친환경과 편의성을 모두 갖춘 미래형 SUV"
+  },
+  {
+    "model_name": "아이오닉 5",
+    "brand": "현대",
+    "price": 47400000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 485,
+    "fuel_efficiency": {
+        "value": 5.2, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["아틀라스 화이트", "루시드 블루 펄", "디지털 틸 그린 펄", "사이버 그레이 메탈릭", "에코트로닉 그레이 펄", "어비스 블랙 펄","그래비티 골드 매트","셀라돈 그레이 매트", "프로스티드 브라운 매트"],
+    "subsidy": true,
+    "short_desc": "픽셀 디자인의 혁신적인 전기 크로스오버. 초고속 충전과 V2L 기능으로 일상을 바꾸는 스마트 전기차"
+  },
+  {
+    "model_name": "코나 Electric",
+    "brand": "현대",
+    "price": 41520000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 417,
+    "fuel_efficiency": {
+        "value": 5.5, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["메타 블루 펄","아틀라스 화이트","사이버 그레이 메탈릭","에코트로닉 그레이 펄","네오테릭 옐로우","미라지 그린","얼티메이트 레드 메탈릭","어비스 블랙 펄"],
+    "subsidy": true,
+    "short_desc": "코나의 전기차 버전. 소형 SUV 클래스에서 417km의 넉넉한 주행거리와 경제적인 운영비용을 자랑하는 실용적 전기차"
+  },
+  {
+    "model_name": "아이오닉 9",
+    "brand": "현대",
+    "price": 67150000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 532,
+    "fuel_efficiency": {
+        "value": 4.3, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["세레니티 화이트 펄","셀라돈 그레이 매트","썬셋 브라운 펄","이오노스피어 그린 펄","녹턴 그레이 메탈릭","바이오 필릭 블루 펄","어비스 블랙 펄","그래비티 골드 매트","셀라돈 그레이 매트","녹턴 그레이 매트"],
+    "subsidy": true,
+    "short_desc": "아이오닉 브랜드의 플래그십 대형 전기 SUV. 넓은 실내공간과 프리미엄 편의사양으로 럭셔리 전기차 경험을 제공"
+  },
+  {
+    "model_name": "2026 캐스퍼 일렉트릭",
+    "brand": "현대",
+    "price": 67150000,
+    "fuel_type": "전기",
+    "car_type": "소형 SUV",
+    "range_km": 315,
+    "fuel_efficiency": {
+        "value": 5.8, 
+        "unit": "km/kWh"
+    },
+    "seats": 4,
+    "available_colors": ["아틀라스 화이트","톰보이 카키","시에나 오렌지 메탈릭","버터크림 옐로우 펄","언블리치드 아이보리","어비스 블랙 펄","에어로 실버 매트","비자림 카키 매트","더스크 블루 매트"],
+    "subsidy": true,
+    "short_desc": "캐스퍼의 전기차 버전. 경차급 크기에 315km 주행거리로 도심 통근과 단거리 여행에 최적화된 친환경 소형 전기차"
+  },
+  {
+    "model_name": "아반떼 N",
+    "brand": "현대",
+    "price": 33600000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 10.6, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["퍼포먼스 블루","아틀라스 화이트","사이버 그레이 메탈릭","에코트로닉 그레이 펄","메타 블루 펄","얼티메이트 레드 메탈릭","어비스 블랙 펄"],
+    "subsidy": false,
+    "short_desc": "고성능 스포츠 세단. N 브랜드의 레이싱 DNA를 담은 강력한 엔진과 스포츠 튜닝으로 짜릿한 드라이빙을 제공"
+  },
+  {
+    "model_name": "그랜저",
+    "brand": "현대",
+    "price": 37980000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 11.7, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["어비스 블랙 펄","세레니티 화이트 펄","에어로 실버 메탈릭","트랜스미션 블루 펄","녹턴 그레이 메탈릭","바이오필릭 블루 펄","유기 브론즈 메탈릭"],
+    "subsidy": false,
+    "short_desc": "현대의 플래그십 대형 세단. 우아한 디자인과 프리미엄 실내, 첨단 편의사양으로 품격 있는 주행 경험을 선사"
+  },
+  {
+    "model_name": "그랜저 Hybrid",
+    "brand": "현대",
+    "price": 43540000,
+    "fuel_type": "하이브리드",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 18.0, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["어비스 블랙 펄","세레니티 화이트 펄","에어로 실버 메탈릭","트랜스미션 블루 펄","녹턴 그레이 메탈릭","바이오필릭 블루 펄","유기 브론즈 메탈릭"],
+    "subsidy": false,
+    "short_desc": "그랜저의 하이브리드 버전. 18.0km/L의 뛰어난 연비와 프리미엄 품질로 경제성과 럭셔리함을 동시에 만족"
+  },
+  {
+    "model_name": "아반떼",
+    "brand": "현대",
+    "price": 20340000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 15.0, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["메타 블루 펄","아틀라스 화이트","사이버 그레이 메탈릭","플루이드 그레이 메탈릭","에코트로닉 그레이 펄","아마존 그레이 메탈릭","미라지 그린","얼티메이트 레드 메탈릭","어비스 블랙 펄"],
+    "subsidy": false,
+    "short_desc": "합리적인 가격의 준중형 세단. 세련된 디자인과 실용적인 공간, 우수한 연비로 첫 차 구매자에게 인기 높은 모델"
+  },
+  {
+    "model_name": "아반떼 Hybrid",
+    "brand": "현대",
+    "price": 25230000,
+    "fuel_type": "하이브리드",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 21.1, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["메타 블루 펄","아틀라스 화이트","사이버 그레이 메탈릭","플루이드 그레이 메탈릭","에코트로닉 그레이 펄","아마존 그레이 메탈릭","미라지 그린","얼티메이트 레드 메탈릭","어비스 블랙 펄"],
+    "subsidy": false,
+    "short_desc": "아반떼의 하이브리드 모델. 21.1km/L의 탁월한 연비로 경제적인 운영비용과 친환경성을 동시에 추구하는 세단"
+  },
+  {
+    "model_name": "쏘나타 디 엣지",
+    "brand": "현대",
+    "price": 27880000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 13.5, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["에어로 실버 매트","녹턴 그레이 매트","세레니티 화이트 펄","트랜스미션 블루 펄","바이오 필릭 블루 펄","어비스 블랙 펄","얼티메이트 레드 메탈릭","녹턴 그레이 메탈릭"],
+    "subsidy": false,
+    "short_desc": "세련된 디자인의 중형 세단. 스포티한 라인과 첨단 편의기능으로 젊은 비즈니스맨들에게 어필하는 프리미엄 세단"
+  },
+  {
+    "model_name": "쏘나타 디 엣지 Hybrid",
+    "brand": "현대",
+    "price": 32320000,
+    "fuel_type": "하이브리드",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 19.4, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["에어로 실버 매트","녹턴 그레이 매트","세레니티 화이트 펄","트랜스미션 블루 펄","바이오 필릭 블루 펄","어비스 블랙 펄","얼티메이트 레드 메탈릭","녹턴 그레이 메탈릭"],
+    "subsidy": false,
+    "short_desc": "쏘나타 디 엣지의 하이브리드 버전. 19.4km/L의 우수한 연비와 세련된 디자인으로 경제성과 스타일을 모두 만족"
+  },
+  {
+    "model_name": "코나 Hybrid",
+    "brand": "현대",
+    "price": "29550000",
+    "fuel_type": "하이브리드",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": "19.8", 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["미라지 그린","아틀라스 화이트","사이버 그레이 메탈릭","에코트로닉 그레이 펄","네오테릭 옐로우","얼티메이트 레드 메탈릭"],
+    "subsidy": false,
+    "short_desc": "코나의 하이브리드 모델. 소형 SUV 클래스에서 19.8km/L의 뛰어난 연비를 자랑하는 친환경 크로스오버"
+  },
+  {
+    "model_name": "투싼 Hybrid",
+    "brand": "현대",
+    "price": 32050000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+         "value": 16.2,
+         "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["크리미 화이트 펄", "쉬머링 실버 메탈릭", "오션 인디고 펄", "아마존 그레이 메탈릭", "얼티메이트 레드 메탈릭", "팬텀 블랙 펄", "파인 그린 매트"],
+    "subsidy": false,
+    "short_desc": "투싼의 하이브리드 모델. 중형 SUV의 넓은 공간과 16.2km/L의 향상된 연비로 가족용 친환경 SUV로 최적"
+  },
+  {
+    "model_name": "베뉴",
+    "brand": "현대",
+    "price": 19560000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+         "value": 13.7,
+         "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["어비스 블랙 펄","데님 블루 펄","에코트로닉 그레이 펄","아틀라스 화이트","사이버 그레이 메탈릭","미라지 그린"],
+    "subsidy": false,
+    "short_desc": "합리적인 가격의 소형 SUV. 높은 시야와 실용적인 적재공간으로 도심형 SUV를 원하는 고객들에게 인기"
+  },
+  {
+    "model_name": "디 올 뉴 팰리세이드",
+    "brand": "현대",
+    "price": 43830000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+         "value": 9.7,
+         "unit": "km/L"
+    },
+    "seats": 8,
+    "available_colors": ["로버스트 에메랄드 펄","크리미 화이트 펄","쉬머링 실버 메탈릭","에코트로닉 그레이 펄","클래지 블루 펄","캐스트 아이언 브라운 펄","갤럭시 마룬 펄","어비스 블랙 펄"],
+    "subsidy": false,
+    "short_desc": "현대의 플래그십 대형 SUV. 8인승의 넓은 공간과 프리미엄 편의사양으로 대가족이나 비즈니스용으로 완벽한 선택"
+  },
+  {
+    "model_name": "디 올 뉴 팰리세이드 Hybrid",
+    "brand": "현대",
+    "price": 49680000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+         "value": 14.1,
+         "unit": "km/L"
+    },
+    "seats": 8,
+    "available_colors": ["로버스트 에메랄드 펄","크리미 화이트 펄","쉬머링 실버 메탈릭","에코트로닉 그레이 펄","클래지 블루 펄","캐스트 아이언 브라운 펄","갤럭시 마룬 펄","어비스 블랙 펄"],
+    "subsidy": false,
+    "short_desc": "팰리세이드의 하이브리드 버전. 대형 SUV임에도 14.1km/L의 우수한 연비로 경제성까지 갖춘 프리미엄 8인승 SUV"
+  },
+  {
+    "model_name": "싼타페",
+    "brand": "현대",
+    "price": 34920000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+         "value": 11.0,
+         "unit": "km/L"
+    },
+    "seats": 6,
+    "available_colors": ["얼씨 브레스 메탈릭 매트","크리미 화이트 펄","사이버 세이지 펄","페블 블루 펄","오카도 그린 펄","테라코타 오렌지","에코트로닉 그레이 펄","어비스 블랙 펄"],
+    "subsidy": false,
+    "short_desc": "6인승 중대형 SUV. 캡틴시트와 넉넉한 트렁크 공간으로 가족 여행과 레저활동에 최적화된 다목적 SUV"
+  },
+  {
+    "model_name": "싼타페 Hybrid",
+    "brand": "현대",
+    "price": 38700000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+         "value": 15.5,
+         "unit": "km/L"
+    },
+    "seats": 6,
+    "available_colors": ["얼씨 브레스 메탈릭 매트","크리미 화이트 펄","사이버 세이지 펄","페블 블루 펄","오카도 그린 펄","테라코타 오렌지","에코트로닉 그레이 펄","어비스 블랙 펄"],
+    "subsidy": false,
+    "short_desc": "싼타페의 하이브리드 모델. 중대형 SUV의 여유로운 공간과 15.5km/L의 향상된 연비로 가족용 친환경 SUV의 완성"
+  },
+  {
+    "model_name": "레이 EV",
+    "brand": "기아",
+    "price": 27350000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 205,
+    "fuel_efficiency": {
+        "value": 5.1, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["스모크 블루","오로라 블랙 펄","아쿠아 민트","밀키 베이지","클리어 화이트","어드벤쳐러스 그린","아스트로 그레이"],
+    "subsidy": true,
+    "short_desc": "레이의 전기차 버전. 경차급 크로스오버로 205km 주행거리와 컴팩트한 크기로 도심 주행에 최적화된 실용적 전기차"
+  },
+  {
+    "model_name": "니로 EV",
+    "brand": "기아",
+    "price": 51400000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 401,
+    "fuel_efficiency": {
+        "value": 5.3, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["스노우 화이트 펄","스틸 그레이","미네랄 블루","시티스케이프 그린","인터스텔라 그레이","오로라 블랙 펄"],
+    "subsidy": true,
+    "short_desc": "니로의 전기차 버전. 401km의 넉넉한 주행거리와 실용적인 크로스오버 디자인으로 일상과 여행을 모두 만족하는 전기차"
+  },
+  {
+    "model_name": "EV3",
+    "brand": "기아",
+    "price": 39950000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 501,
+    "fuel_efficiency": {
+        "value": 5.2, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["아이보리 실버","아이보리 매트 실버","오로라 블랙 펄","스노우 화이트 펄","세일 그레이","프로스트 블루","어벤쳐린 그린"],
+    "subsidy": true,
+    "short_desc": "기아의 소형 전기 SUV. 501km의 긴 주행거리와 합리적인 가격으로 전기차 입문자에게 최적인 모던한 디자인의 모델"
+  },
+  {
+    "model_name": "EV4",
+    "brand": "기아",
+    "price": 40420000,
+    "fuel_type": "전기",
+    "car_type": "세단",
+    "range_km": 533,
+    "fuel_efficiency": {
+        "value": 5.8, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["모닝 헤이즈","스노우 화이트 펄","마그마 레드","아이보리 매트 실버","아이보리 실버","세일 그레이","요트 매트 블루","오로라 블랙 펄"],
+    "subsidy": true,
+    "short_desc": "기아의 중형 전기 세단. 533km의 최장 주행거리와 5.8km/kWh의 우수한 전비로 장거리 주행에 특화된 프리미엄 전기세단"
+  },
+  {
+    "model_name": "EV6",
+    "brand": "기아",
+    "price": 46600000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 494,
+    "fuel_efficiency": {
+        "value": 5.3, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["문스케이프 매트 그레이","스노우 화이트 펄","런웨이 레드","아이보리 매트 실버","글래시어","인터스텔라 그레이","요트 블루","오로라 블랙 펄"],
+    "subsidy": true,
+    "short_desc": "기아의 대표 전기 크로스오버. 초고속 충전과 V2L 기능, 역동적인 디자인으로 전기차의 새로운 기준을 제시하는 모델"
+  },
+  {
+    "model_name": "EV6 GT",
+    "brand": "기아",
+    "price": 72300000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 478,
+    "fuel_efficiency": {
+        "value": 3.8, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["스노우 화이트 펄","런웨이 레드","울프 그레이","요트 매트 블루","오로라 블랙 펄"],
+    "subsidy": true,
+    "short_desc": "EV6의 고성능 버전. GT 전용 튜닝과 강력한 듀얼모터로 스포츠카 수준의 가속력을 자랑하는 고성능 전기 크로스오버"
+  },
+  {
+    "model_name": "EV9",
+    "brand": "기아",
+    "price": 64120000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 501,
+    "fuel_efficiency": {
+        "value": 4.2, 
+        "unit": "km/kWh"
+    },
+    "seats": 7,
+    "available_colors": ["스노우 화이트 펄","판테라 메탈","오션 매트 블루","오션 블루","아이보리 매트 실버","아이스버그 그린","페블 그레이","플레어 레드"],
+    "subsidy": true,
+    "short_desc": "기아의 플래그십 대형 전기 SUV. 3열 시트의 넓은 공간과 프리미엄 편의사양으로 대가족용 럭셔리 전기차의 완성"
+  },
+  {
+    "model_name": "EV9 GT",
+    "brand": "기아",
+    "price": 88490000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 374,
+    "fuel_efficiency": {
+        "value": 3.6, 
+        "unit": "km/kWh"
+    },
+    "seats": 6,
+    "available_colors": ["스노우 화이트 펄","판테라 매트 메탈","판테라 메탈","페블 그레이","아이보리 매트 실버","플레어 레드","오로라 블랙 펄"],
+    "subsidy": true,
+    "short_desc": "EV9의 고성능 GT 버전. 대형 SUV임에도 스포츠카급 성능을 발휘하는 최고급 고성능 전기 SUV"
+  },
+  {
+    "model_name": "모닝",
+    "brand": "기아",
+    "price": 13750000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 14.7, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["클리어 화이트","밀키 베이지","어드벤쳐러스 그린","스파클링 실버","시그널 레드","아스트로 그레이","오로라 블랙 펄"],
+    "subsidy": false,
+    "short_desc": "기아의 대표 경차. 합리적인 가격과 뛰어난 연비, 컴팩트한 크기로 도심 주행과 첫 차 구매자에게 인기 높은 실용적 모델"
+  },
+  {
+    "model_name": "레이",
+    "brand": "기아",
+    "price": 13400000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 12.9, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["어드벤쳐러스 그린","밀키 베이지","아쿠아 민트","스모크 블루","클리어 화이트","아스트로 그레이","오로라 블랙 펄"],
+    "subsidy": false,
+    "short_desc": "톨보이 타입의 경차 크로스오버. 높은 루프라인으로 넓은 실내공간과 개성적인 디자인을 자랑하는 도심형 소형차"
+  },
+  {
+    "model_name": "K5",
+    "brand": "기아",
+    "price": 27240000,
+    "fuel_type": "하이브리드",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 19.8, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["스노우 화이트 펄","울프 그레이","인터스텔라 그레이","글래시어","오로라 블랙 펄","그래비티 블루","요트 블루","문스케이프 매트 그레이"],
+    "subsidy": false,
+    "short_desc": "기아의 중형 하이브리드 세단. 19.8km/L의 뛰어난 연비와 스포티한 디자인으로 젊은 비즈니스맨들에게 인기 높은 모델"
+  },
+  {
+    "model_name": "K8",
+    "brand": "기아",
+    "price": 36790000,
+    "fuel_type": "하이브리드",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 18.1, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["스노우 화이트 펄","아이보리 실버","문스케이프 매트 그레이","선셋 베이지","인터스텔라 그레이","오로라 블랙 펄"],
+    "subsidy": false,
+    "short_desc": "프리미엄 준대형 하이브리드 세단. 우아한 디자인과 럭셔리한 실내, 18.1km/L의 우수한 연비로 품격 있는 주행을 제공"
+  },
+  {
+    "model_name": "K9",
+    "brand": "기아",
+    "price": 58710000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 9.0, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["스노우 화이트 펄","페블 그레이","판테라 메탈","딥크로마 블루","오로라 블랙 펄"],
+    "subsidy": false,
+    "short_desc": "기아의 플래그십 대형 세단. 최고급 편의사양과 프리미엄 소재로 완성된 럭셔리 리무진급 세단"
+  },
+  {
+    "model_name": "셀토스",
+    "brand": "기아",
+    "price": 21690000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 12.9, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["스노우 화이트 펄","플루톤 블루","그래비티 그레이","퓨전 블랙","다크 오션 블루"],
+    "subsidy": false,
+    "short_desc": "글로벌 소형 SUV. 젊고 역동적인 디자인과 합리적인 가격으로 젊은 층과 첫 SUV 구매자에게 인기 높은 모델"
+  },
+  {
+    "model_name": "니로",
+    "brand": "기아",
+    "price": 29320000,
+    "fuel_type": "하이브리드",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 20.8, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["스노우 화이트 펄","오로라 블랙 펄","미네랄 블루","인터스텔라 그레이","스틸 그레이","시티스케이프 그린"],
+    "subsidy": false,
+    "short_desc": "하이브리드 크로스오버의 대표 모델. 20.8km/L의 뛰어난 연비와 친환경성으로 경제적이고 실용적인 선택"
+  },
+  {
+    "model_name": "스포티지",
+    "brand": "기아",
+    "price": 27930000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 16.3, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["스노우 화이트 펄","헤리티지 블루","울프 그레이","그래비티 그레이","베스타 블루","퓨전 블랙"],
+    "subsidy": false,
+    "short_desc": "기아의 대표 중형 SUV. 볼드하고 역동적인 디자인과 안정적인 주행성능으로 가족용 SUV로 인기 높은 모델"
+  },
+  {
+    "model_name": "쏘렌토",
+    "brand": "기아",
+    "price": 35800000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 15.7, 
+        "unit": "km/L"
+    },
+    "seats": 7,
+    "available_colors": ["스노우 화이트 펄","볼캐닉 샌드 브라운","시티스케이프 그린","인터스텔라 그레이","오로라 블랙 펄"],
+    "subsidy": false,
+    "short_desc": "준대형 7인승 SUV. 넓은 실내공간과 3열 시트로 대가족이나 레저활동에 최적화된 다목적 SUV"
+  },
+  {
+    "model_name": "타스만",
+    "brand": "기아",
+    "price": 37500000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 8.6, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["스노우 화이트 펄","스틸그레이","인터스텔라 그레이","오로라 블랙 펄","시티스케이프 그린","런웨이 레드","텐 베이지","데님 블루"],
+    "subsidy": false, 
+    "short_desc": "기아 최초의 픽업트럭. 강인한 내구성과 실용적인 적재공간으로 워크&레저 양방향 활용이 가능한 라이프스타일 픽업"
+  },
+  {
+    "model_name": "카니발",
+    "brand": "기아",
+    "price": 35510000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 9.0, 
+        "unit": "km/L"
+    },
+    "seats": 11,
+    "available_colors": ["아이보리 실버","판테라 메탈","스노우 화이트 펄","오로라 블랙 펄"],
+    "subsidy": false, 
+    "short_desc": "대형 3열 MPV. 11인승의 넓은 공간과 프리미엄 편의사양으로 대가족이나 비즈니스용으로 완벽한 다목적차량"
+  },
+  {
+    "model_name": "카니발 하이리무진",
+    "brand": "기아",
+    "price": 66090000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 13.0, 
+        "unit": "km/L"
+    },
+    "seats": 7,
+    "available_colors": ["스노우 화이트 펄","오로라 블랙 펄"],
+    "subsidy": false, 
+    "short_desc": "카니발의 최고급 버전. 리무진급 편의사양과 럭셔리한 실내로 VIP 전용 프리미엄 다목적차량"
+  },
+  {
+    "model_name": "G70",
+    "brand": "제네시스",
+    "price": 40350000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 9.8, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["어드미럴 블루", "세리나이트 실버", "엠페라도르 와인", "하이어라키 블랙", "마리나 블루", "메시아 아이보리", "말라카이트 실버"],
+    "subsidy": false,
+    "short_desc": "제네시스의 스포츠 세단. 역동적인 퍼포먼스와 프리미엄 디자인으로 젊은 럭셔리 세단 시장을 주도하는 고성능 모델"
+  },
+  {
+    "model_name": "G80",
+    "brand": "제네시스",
+    "price": 52350000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 8.9, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["어드미럴 블루", "세리나이트 실버", "엠페라도르 와인", "하이어라키 블랙", "마리나 블루", "메시아 아이보리", "오브시디언 블랙"],
+    "subsidy": false,
+    "short_desc": "제네시스의 중형 럭셔리 세단. 우아한 디자인과 첨단 기술로 완성된 프리미엄 비즈니스 세단의 대표 모델"
+  },
+  {
+    "model_name": "G90",
+    "brand": "제네시스",
+    "price": 87100000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 7.8, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["어드미럴 블루", "세리나이트 실버", "엠페라도르 와인", "하이어라키 블랙", "메시아 아이보리", "오브시디언 블랙", "메탈릭 그래파이트"],
+    "subsidy": false,
+    "short_desc": "제네시스의 플래그십 대형 세단. 최고급 편의사양과 V8 엔진의 강력한 성능으로 완성된 럭셔리 리무진"
+  },
+  {
+    "model_name": "Electrified G80",
+    "brand": "제네시스",
+    "price": 69500000,
+    "fuel_type": "전기",
+    "car_type": "세단",
+    "range_km": 427,
+    "fuel_efficiency": {
+        "value": 4.3, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["어드미럴 블루", "세리나이트 실버", "하이어라키 블랙", "메시아 아이보리", "오브시디언 블랙", "인카데센트 화이트"],
+    "subsidy": true,
+    "short_desc": "G80의 전기차 버전. 427km 주행거리와 럭셔리 세단의 품격을 그대로 유지한 프리미엄 전기세단"
+  },
+  {
+    "model_name": "GV60",
+    "brand": "제네시스",
+    "price": 59900000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 429,
+    "fuel_efficiency": {
+        "value": 4.2, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["어드미럴 블루", "세리나이트 실버", "하이어라키 블랙", "메시아 아이보리", "오브시디언 블랙", "말라카이트 실버", "코코아 실버"],
+    "subsidy": true,
+    "short_desc": "제네시스 최초의 전용 전기차 SUV. 429km 주행거리와 혁신적인 기술력으로 럭셔리 전기차의 새로운 기준을 제시"
+  },
+  {
+    "model_name": "GV70",
+    "brand": "제네시스",
+    "price": 54200000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 8.4, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["어드미럴 블루", "세리나이트 실버", "엠페라도르 와인", "하이어라키 블랙", "메시아 아이보리", "오브시디언 블랙", "말라카이트 실버"],
+    "subsidy": false,
+    "short_desc": "제네시스의 중형 럭셔리 SUV. 스포티한 퍼포먼스와 우아한 디자인으로 완성된 프리미엄 패밀리 SUV"
+  },
+  {
+    "model_name": "Electrified GV70",
+    "brand": "제네시스",
+    "price": 69800000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 400,
+    "fuel_efficiency": {
+        "value": 3.9, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["어드미럴 블루", "세리나이트 실버", "하이어라키 블랙", "메시아 아이보리", "오브시디언 블랙", "인카데센트 화이트"],
+    "subsidy": true,
+    "short_desc": "GV70의 전기차 버전. 400km 주행거리와 강력한 듀얼모터로 럭셔리 전기 SUV의 완성형을 보여주는 모델"
+  },
+  {
+    "model_name": "GV80",
+    "brand": "제네시스",
+    "price": 67900000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 7.9, 
+        "unit": "km/L"
+    },
+    "seats": 7,
+    "available_colors": ["어드미럴 블루", "세리나이트 실버", "엠페라도르 와인", "하이어라키 블랙", "메시아 아이보리", "오브시디언 블랙", "말라카이트 실버"],
+    "subsidy": false,
+    "short_desc": "제네시스의 플래그십 대형 SUV. 7인승의 넓은 공간과 최고급 편의사양으로 럭셔리 SUV의 정점을 보여주는 모델"
+  },
+  {
+    "model_name": "G70 Shooting Brake",
+    "brand": "제네시스",
+    "price": 44800000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 9.2, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["어드미럴 블루", "세리나이트 실버", "엠페라도르 와인", "하이어라키 블랙", "말라카이트 실버", "메시아 아이보리"],
+    "subsidy": false,
+    "short_desc": "G70의 슈팅브레이크 버전. 세단의 우아함과 SUV의 실용성을 결합한 독특한 스타일의 프리미엄 크로스오버"
+  },
+  {
+    "model_name": "GV60 Performance",
+    "brand": "제네시스",
+    "price": 73900000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 368,
+    "fuel_efficiency": {
+        "value": 3.6, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["하이어라키 블랙", "오브시디언 블랙", "세리나이트 실버", "어드미럴 블루", "말라카이트 실버"],
+    "subsidy": true,
+    "short_desc": "GV60의 고성능 버전. 강력한 듀얼모터와 스포츠 튜닝으로 전기차의 짜릿한 퍼포먼스를 극대화한 고성능 전기 SUV"
+  },
+  {
+    "model_name": "QM3",
+    "brand": "르노코리아",
+    "price": 24500000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 13.2, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["디아만 블랙", "아이보리 화이트", "페를 블랑", "루즈 플랑드르", "그리 에톤셀", "블루 철 드 프랑스"],
+    "subsidy": false,
+    "short_desc": "르노의 소형 크로스오버 SUV. 프랑스 감성의 세련된 디자인과 실용적인 공간구성으로 도심형 SUV를 원하는 고객에게 인기"
+  },
+  {
+    "model_name": "QM6",
+    "brand": "르노코리아",
+    "price": 32800000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 12.4, 
+        "unit": "km/L"
+    },
+    "seats": 7,
+    "available_colors": ["디아만 블랙", "아이보리 화이트", "페를 블랑", "루즈 플랑드르", "그리 에톤셀", "브론즈 비장"],
+    "subsidy": false,
+    "short_desc": "르노의 중형 7인승 SUV. 넓고 실용적인 공간과 합리적인 가격으로 대가족용 SUV 시장에서 경쟁력을 갖춘 모델"
+  },
+  {
+    "model_name": "SM3 네오 전기차",
+    "brand": "르노코리아",
+    "price": 37340000,
+    "fuel_type": "전기",
+    "car_type": "세단",
+    "range_km": 213,
+    "fuel_efficiency": {
+        "value": 4.5, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["디아만 블랙", "아이보리 화이트", "페를 블랑", "그리 에톤셀", "블루 철 드 프랑스"],
+    "subsidy": true,
+    "short_desc": "SM3의 전기차 버전. 213km 주행거리와 합리적인 가격으로 전기차 입문자에게 적합한 실용적 전기세단"
+  },
+  {
+    "model_name": "아르카나",
+    "brand": "르노코리아",
+    "price": 29900000,
+    "fuel_type": "하이브리드",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 18.5, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["디아만 블랙", "아이보리 화이트", "페를 블랑", "루즈 플랑드르", "그리 에톤셀", "오랑 발렌시아"],
+    "subsidy": false,
+    "short_desc": "쿠페 스타일의 하이브리드 크로스오버. 18.5km/L의 뛰어난 연비와 독특한 디자인으로 개성을 추구하는 고객에게 어필"
+  },
+  {
+    "model_name": "캡쳐",
+    "brand": "르노코리아",
+    "price": 26200000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 14.1, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["디아만 블랙", "아이보리 화이트", "페를 블랑", "루즈 플랑드르", "오랑 발렌시아", "블루 철 드 프랑스"],
+    "subsidy": false,
+    "short_desc": "소형 크로스오버 SUV. 역동적인 디자인과 실용성을 겸비한 유럽 스타일의 컴팩트 SUV"
+  },
+  {
+    "model_name": "클리오",
+    "brand": "르노코리아",
+    "price": 19800000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 15.3, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["디아만 블랙", "아이보리 화이트", "페를 블랑", "루즈 플랑드르", "블루 철 드 프랑스"],
+    "subsidy": false,
+    "short_desc": "프랑스 감성의 소형 해치백. 경제적인 연비와 컴팩트한 크기로 도심 주행에 최적화된 유럽 스타일 소형차"
+  },
+  {
+    "model_name": "조에",
+    "brand": "르노코리아",
+    "price": 42500000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 317,
+    "fuel_efficiency": {
+        "value": 5.1, 
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["디아만 블랙", "아이보리 화이트", "페를 블랑", "블루 철 드 프랑스", "그리 에톤셀"],
+    "subsidy": true,
+    "short_desc": "르노의 대표 전기 해치백. 317km 주행거리와 프랑스 감성의 디자인으로 유럽 스타일 전기차를 원하는 고객에게 최적"
+  },
+  {
+    "model_name": "트위지",
+    "brand": "르노코리아",
+    "price": 16900000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 75,
+    "fuel_efficiency": {
+        "value": 7.2, 
+        "unit": "km/kWh"
+    },
+    "seats": 2,
+    "available_colors": ["화이트", "블랙", "오렌지", "블루", "옐로우"],
+    "subsidy": true,
+    "short_desc": "초소형 2인승 전기차. 75km 단거리 주행용으로 도심 근거리 이동과 개성적인 모빌리티를 원하는 고객을 위한 특별한 모델"
+  },
+  {
+    "model_name": "메간",
+    "brand": "르노코리아",
+    "price": 28900000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 13.8, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["디아만 블랙", "아이보리 화이트", "페를 블랑", "루즈 플랑드르", "그리 에톤셀", "블루 철 드 프랑스"],
+    "subsidy": false,
+    "short_desc": "중형 해치백/왜건. 프랑스의 감성적 디자인과 실용적인 공간활용으로 유럽차 특유의 주행감성을 추구하는 고객에게 인기"
+  },
+  {
+    "model_name": "콜레오스",
+    "brand": "르노코리아",
+    "price": 39500000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 11.9, 
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["디아만 블랙", "아이보리 화이트", "페를 블랑", "그리 에톤셀", "브론즈 비장"],
+    "subsidy": false,
+    "short_desc": "프리미엄 중형 SUV. 우아한 프랑스 디자인과 고급스러운 실내로 럭셔리 SUV 경험을 원하는 고객을 위한 플래그십 모델"
+  },
+  {
+    "model_name": "3시리즈 330i",
+    "brand": "BMW",
+    "price": 62900000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 12.8,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["알파인 화이트", "제트 블랙", "미네랄 그레이", "스톰 베이"],
+    "subsidy": false,
+    "short_desc": "BMW의 대표적인 중형 세단으로 우아한 디자인과 뛰어난 주행성능을 자랑합니다."
+  },
+  {
+    "model_name": "Bentayga V8",
+    "brand": "Bentley",
+    "price": 289900000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 7.8,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["벨루가", "세인트 제임스 레드", "아쿠아마린", "오렌지 플레임"],
+    "subsidy": false,
+    "short_desc": "벤틀리의 울트라 럭셔리 SUV로 최고급 가죽과 목재 트림으로 장식된 핸드크래프트 인테리어를 자랑합니다."
+  },
+  {
+    "model_name": "Continental GT",
+    "brand": "Bentley",
+    "price": 245900000,
+    "fuel_type": "가솔린",
+    "car_type": "쿠페",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 8.2,
+        "unit": "km/L"
+    },
+    "seats": 4,
+    "available_colors": ["세인트 제임스 레드", "벨루가", "아쿠아마린", "오렌지 플레임"],
+    "subsidy": false,
+    "short_desc": "벤틀리의 그랜드 투어러로 영국 전통의 럭셔리와 현대적 성능이 완벽하게 조화된 걸작입니다."
+  },
+  {
+    "model_name": "Cullinan",
+    "brand": "Rolls-Royce",
+    "price": 489900000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 6.5,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["아르틱 화이트", "다이아몬드 블랙", "실버 샌드", "로열 블루"],
+    "subsidy": false,
+    "short_desc": "롤스로이스 최초의 SUV로 '세계에서 가장 럭셔리한 SUV'라는 타이틀에 걸맞는 극상의 품격을 제공합니다."
+  },
+  {
+    "model_name": "Ghost",
+    "brand": "Rolls-Royce",
+    "price": 389900000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 7.1,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["아르틱 화이트", "다이아몬드 블랙", "실버 샌드", "로열 블루"],
+    "subsidy": false,
+    "short_desc": "롤스로이스의 럭셔리 세단으로 매직 카펫 라이드와 절대적인 정숙성을 자랑하는 최고급 모델입니다."
+  },
+  {
+    "model_name": "Vantage",
+    "brand": "Aston Martin",
+    "price": 189900000,
+    "fuel_type": "가솔린",
+    "car_type": "스포츠카",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 8.9,
+        "unit": "km/L"
+    },
+    "seats": 2,
+    "available_colors": ["스트래토스 화이트", "제트 블랙", "아르고 골드", "라임 에센스"],
+    "subsidy": false,
+    "short_desc": "애스턴 마틴의 순수 스포츠카로 제임스 본드가 선택한 브랜드의 DNA와 현대적 성능을 완벽하게 구현했습니다."
+  },
+  {
+    "model_name": "DBX",
+    "brand": "Aston Martin",
+    "price": 219900000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 8.1,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["스트래토스 화이트", "제트 블랙", "아르고 골드", "라임 에센스"],
+    "subsidy": false,
+    "short_desc": "애스턴 마틴 최초의 SUV로 스포츠카의 감성과 SUV의 실용성을 영국 럭셔리 브랜드만의 방식으로 해석했습니다."
+  },
+  {
+    "model_name": "Huracan",
+    "brand": "Lamborghini",
+    "price": 259900000,
+    "fuel_type": "가솔린",
+    "car_type": "스포츠카",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 7.2,
+        "unit": "km/L"
+    },
+    "seats": 2,
+    "available_colors": ["비안코 이카루스", "네로 아이드", "아란시오 보레알리스", "베르데 만티스"],
+    "subsidy": false,
+    "short_desc": "람보르기니의 입문형 슈퍼카로 V10 자연흡기 엔진의 강렬한 사운드와 이탈리아 디자인의 진수를 보여줍니다."
+  },
+  {
+    "model_name": "Roma",
+    "brand": "Ferrari",
+    "price": 289900000,
+    "fuel_type": "가솔린",
+    "car_type": "쿠페",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 7.5,
+        "unit": "km/L"
+    },
+    "seats": 4,
+    "available_colors": ["로소 코르사", "비안코 아부스", "네로", "그리지오 실버스톤"],
+    "subsidy": false,
+    "short_desc": "페라리의 그랜드 투어러로 1960년대 로마의 달콤한 생활(La Dolce Vita)에서 영감을 받은 우아한 디자인입니다."
+  },
+  {
+    "model_name": "Urus",
+    "brand": "Lamborghini",
+    "price": 279900000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 7.8,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["비안코 이카루스", "네로 아이드", "아란시오 보레알리스", "베르데 만티스"],
+    "subsidy": false,
+    "short_desc": "람보르기니의 슈퍼 SUV로 세계에서 가장 빠른 SUV 중 하나이며 극한의 성능과 이탈리아 디자인을 결합했습니다."
+  },
+  {
+    "model_name": "911 Turbo S",
+    "brand": "Porsche",
+    "price": 258900000,
+    "fuel_type": "가솔린",
+    "car_type": "스포츠카",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 8.8,
+        "unit": "km/L"
+    },
+    "seats": 4,
+    "available_colors": ["GT 실버", "제트 블랙", "가드 레드", "아게이트 그레이"],
+    "subsidy": false,
+    "short_desc": "포르쉐 911의 최고 성능 모델로 터보차저와 독일 정밀 엔지니어링이 만나 탄생한 궁극의 스포츠카입니다."
+  },
+  {
+    "model_name": "C클래스 C200",
+    "brand": "Mercedes-Benz",
+    "price": 58800000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 13.2,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["폴라 화이트", "옵시디언 블랙", "셀레나이트 그레이", "브릴리언트 블루"],
+    "subsidy": false,
+    "short_desc": "메르세데스-벤츠의 럭셔리 중형 세단으로 최고급 인테리어와 안전기술을 제공합니다."
+  },
+  {
+    "model_name": "A4 40 TFSI",
+    "brand": "Audi",
+    "price": 55200000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 14.1,
+    "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["이비스 화이트", "미토스 블랙", "플로렛 실버", "나바라 블루"],
+    "subsidy": false,
+    "short_desc": "아우디의 중형 세단으로 혁신적인 기술과 정교한 독일 엔지니어링을 경험할 수 있습니다."
+  },
+  {
+    "model_name": "Model S",
+    "brand": "Tesla",
+    "price": 128900000,
+    "fuel_type": "전기",
+    "car_type": "세단",
+    "range_km": 515,
+    "fuel_efficiency": {
+        "value": 4.8,
+        "unit": "km/kWh"
+    },
+    "seats": 5,
+    "available_colors": ["펄 화이트", "솔리드 블랙", "미드나이트 실버", "레드 멀티코트"],
+    "subsidy": true,
+    "short_desc": "테슬라의 플래그십 전기 세단으로 최첨단 자율주행 기술과 혁신적인 인포테인먼트를 제공합니다."
+  },
+  {
+    "model_name": "XF P250",
+    "brand": "Jaguar",
+    "price": 72800000,
+    "fuel_type": "가솔린",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 12.1,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["퓨어 화이트", "산토리니 블랙", "인더스 실버", "로사이트 레드"],
+    "subsidy": false,
+    "short_desc": "재규어의 럭셔리 세단으로 영국 특유의 우아함과 스포티한 성능을 동시에 제공합니다."
+  },
+  {
+    "model_name": "X3 xDrive30i",
+    "brand": "BMW",
+    "price": 68900000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 11.5,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["알파인 화이트", "제트 블랙", "파이토닉 블루", "선셋 오렌지"],
+    "subsidy": false,
+    "short_desc": "BMW의 중형 SUV로 도심과 오프로드 모두에서 뛰어난 성능을 발휘합니다."
+  },
+  {
+    "model_name": "GLC 300 4MATIC",
+    "brand": "Mercedes-Benz",
+    "price": 74500000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 11.2,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["폴라 화이트", "옵시디언 블랙", "디지털 화이트", "매그노 그레이"],
+    "subsidy": false,
+    "short_desc": "메르세데스-벤츠의 중형 SUV로 럭셔리한 승차감과 우수한 안전성을 제공합니다."
+  },
+  {
+    "model_name": "Q5 45 TFSI",
+    "brand": "Audi",
+    "price": 71200000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 11.8,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["글래시어 화이트", "미토스 블랙", "만하탄 그레이", "아주르 블루"],
+    "subsidy": false,
+    "short_desc": "아우디의 중형 SUV로 콰트로 시스템과 첨단 기술이 결합된 프리미엄 모델입니다."
+  },
+  {
+    "model_name": "Model X",
+    "brand": "Tesla",
+    "price": 138900000,
+    "fuel_type": "전기",
+    "car_type": "SUV",
+    "range_km": 490,
+    "fuel_efficiency": {
+        "value": 4.2,
+        "unit": "km/kWh"
+    },
+    "seats": 7,
+    "available_colors": ["펄 화이트", "솔리드 블랙", "미드나이트 실버", "레드 멀티코트"],
+    "subsidy": true,
+    "short_desc": "테슬라의 프리미엄 전기 SUV로 독특한 팰컨윙 도어와 7인승 공간을 제공합니다."
+  },
+  {
+    "model_name": "F-PACE P250",
+    "brand": "Jaguar",
+    "price": 76800000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 11.0,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["푸지 화이트", "나르빅 블랙", "인더스 실버", "피렌체 레드"],
+    "subsidy": false,
+    "short_desc": "재규어 최초의 SUV로 스포츠카의 감성과 SUV의 실용성을 완벽하게 결합했습니다."
+  },
+  {
+    "model_name": "Macan",
+    "brand": "Porsche",
+    "price": 89800000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 10.4,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["화이트", "제트 블랙", "아게이트 그레이", "마젠타 베리"],
+    "subsidy": false,
+    "short_desc": "포르쉐의 컴팩트 SUV로 스포츠카 DNA가 담긴 탁월한 주행성능을 자랑합니다."
+  },
+  {
+    "model_name": "911 카레라",
+    "brand": "Porsche",
+    "price": 165800000,
+    "fuel_type": "가솔린",
+    "car_type": "스포츠카",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 9.8,
+        "unit": "km/L"
+    },
+    "seats": 4,
+    "available_colors": ["GT 실버", "제트 블랙", "가드 레드", "아게이트 그레이"],
+    "subsidy": false,
+    "short_desc": "포르쉐의 아이코닉한 스포츠카로 반세기가 넘는 전통과 최첨단 기술이 만나는 걸작입니다."
+  },
+  {
+    "model_name": "Z4 sDrive30i",
+    "brand": "BMW",
+    "price": 78900000,
+    "fuel_type": "가솔린",
+    "car_type": "컨버터블",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 10.9,
+        "unit": "km/L"
+    },
+    "seats": 2,
+    "available_colors": ["알파인 화이트", "제트 블랙", "미네랄 그레이", "미사노 블루"],
+    "subsidy": false,
+    "short_desc": "BMW의 로드스터로 개방감 있는 드라이빙과 순수한 스포츠 감성을 제공합니다."
+  },
+  {
+    "model_name": "LS 500h",
+    "brand": "Lexus",
+    "price": 145900000,
+    "fuel_type": "하이브리드",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 15.6,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["소닉 화이트", "그라파이트 블랙", "소닉 실버", "딥 블루"],
+    "subsidy": false,
+    "short_desc": "렉서스의 플래그십 세단으로 일본의 정교한 크래프트맨십과 혁신 기술이 결합되었습니다."
+  },
+  {
+    "model_name": "ES 300h",
+    "brand": "Lexus",
+    "price": 64900000,
+    "fuel_type": "하이브리드",
+    "car_type": "세단",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 18.4,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["소닉 화이트", "그라파이트 블랙", "소닉 실버", "레드 마이카"],
+    "subsidy": false,
+    "short_desc": "렉서스의 중형 하이브리드 세단으로 뛰어난 연비와 조용한 승차감을 제공합니다."
+  },
+  {
+    "model_name": "Discovery Sport P250",
+    "brand": "Land Rover",
+    "price": 73800000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 10.8,
+        "unit": "km/L"
+    },
+    "seats": 7,
+    "available_colors": ["푸지 화이트", "나르빅 블랙", "인더스 실버", "피렌체 레드"],
+    "subsidy": false,
+    "short_desc": "랜드로버의 중형 SUV로 탁월한 오프로드 성능과 7인승 실용성을 겸비했습니다."
+  },
+  {
+    "model_name": "XC60 T5",
+    "brand": "Volvo",
+    "price": 65900000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 11.6,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["크리스털 화이트", "온어 블랙", "오스뮴 그레이", "데님 블루"],
+    "subsidy": false,
+    "short_desc": "볼보의 중형 SUV로 북유럽 감성의 디자인과 세계 최고 수준의 안전기술을 자랑합니다."
+  },
+  {
+    "model_name": "QX50 2.0T",
+    "brand": "Infiniti",
+    "price": 58900000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 11.3,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["문스톤 화이트","그래파이트 섀도우", "리퀴드 플래티넘", "헤르미타 레드"],
+    "subsidy": false,
+    "short_desc": "인피니티의 중형 SUV로 혁신적인 가변압축비 엔진과 럭셔리한 인테리어를 제공합니다."
+  },
+  {
+    "model_name": "X5 xDrive40i",
+    "brand": "BMW",
+    "price": 98900000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 10.2,
+        "unit": "km/L"
+    },
+    "seats": 7,
+    "available_colors": ["알파인 화이트","제트 블랙","카르본 블랙","파이토닉 블루"],
+    "subsidy": false,
+    "short_desc": "BMW의 대형 SUV로 넓은 실내공간과 강력한 성능, 고급스러운 마감재를 제공합니다."
+  },
+  {
+    "model_name": "Cayenne",
+    "brand": "Porsche",
+    "price": 128900000,
+    "fuel_type": "가솔린",
+    "car_type": "SUV",
+    "range_km": null,
+    "fuel_efficiency": {
+        "value": 9.5,
+        "unit": "km/L"
+    },
+    "seats": 5,
+    "available_colors": ["화이트","제트 블랙","마호가니","사파이어 블루"],
+    "subsidy": false,
+    "short_desc": "포르쉐의 대형 SUV로 스포츠카의 성능과 SUV의 실용성을 완벽하게 조화시킨 모델입니다."
+  }
+]
