@@ -59,6 +59,9 @@ git clone https://github.com/crayonjunjjang/recommand_car_chatbot.git
 cd 저장된 파일 경로
 
 # 가상환경 생성 (Anaconda Prompt)
+conda create -n py312 python=3.12
+
+#가상환경 연동
 conda activate py312
 cd 저장된 파일 경로  
 
@@ -194,12 +197,6 @@ python-dotenv>=1.0.0
 - `.env` 파일이 올바른 위치에 있는지 확인
 - API 키가 정확한지 확인
 - OpenAI 계정에 충분한 크레딧이 있는지 확인
-
-**Q: 음성 파일이 재생되지 않아요**
-- `f1.mp3` 파일이 올바른 경로에 있는지 확인
-
-**Q: 배경화면이 보이지 않아요**
-- `f1.jpg` 파일이 올바른 경로에 있는지 확인
 
 **Q: 채팅 기록이 저장되지 않아요**
 - 프로젝트 폴더에 쓰기 권한이 있는지 확인
